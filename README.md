@@ -1,3 +1,3 @@
 # online_shopping
 
-php mini project
+php and mysql mini project
